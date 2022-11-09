@@ -9,11 +9,11 @@ namespace LiveCodingSession
             Console.WriteLine("Enter Word: ");
             string Input = Console.ReadLine();
 
-            Unmasked = 4;
+           int Unmasked = 4;
             if(Input.Length <= Unmasked)
             {
                 Console.WriteLine(Input);
-                Console.WriteLine("There is nothing to unmask.");
+                Console.WriteLine("There is nothing to mask");
             }
             else
             {
