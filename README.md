@@ -1,7 +1,7 @@
 # LiveCodingSession
 Live Coding Session Tasks
 
-This repository contains 6 files and a Readme file. 
+This repository contains 6 csharp files and a Readme file. 
 
 Authentication.cs file contains a program that takes a string, transforms all but the last four characters into "#" and returns the new masked string. 
 CapitalLetterIndex.cs file contains a program that takes a string and returns an ordered array containing the indices of all capital letters in the string. 
